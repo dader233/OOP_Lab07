@@ -1,0 +1,3 @@
+orc 10 20 TestOrc
+squirrel 30 40 TestSquirrel
+druid 50 60 TestDruid
